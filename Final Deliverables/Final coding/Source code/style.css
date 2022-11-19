@@ -1,0 +1,58 @@
+.common {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: grey;
+    
+  
+}
+
+.title {
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(161, 161, 187);
+   
+}
+
+.boxitem {
+    display: inline-block;
+    vertical-align:top;
+    margin-right: 20ch;
+    margin-left: 10ch;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    
+}
+
+#inputimg {
+    vertical-align: text-bottom 5cm;
+    text-align: center;
+    border: solid 1px black;
+    margin-bottom: 150px;
+    
+    
+}
+
+#clearbtn {
+
+    
+    text-align: center ;
+    width: 100%;
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: block;
+    margin-right: 1mm;
+}
+
+#pred {
+    
+    width: 196px;
+    height: 196px;
+    line-height: 196px;
+    font-size: 160px;
+    border: solid 1px black;
+    
+    background-color: rgb(168, 148, 148);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
